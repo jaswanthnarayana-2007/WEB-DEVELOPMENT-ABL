@@ -7,32 +7,25 @@
 **Subject:** Web Development
 
 ## 1. Introduction
-This report documents three beginner-level webpages developed using HTML5 and CSS3 for the Web Development Activity-Based Learning assignment.
+This report documents three beginner-level webpages developed using HTML5 and CSS3.
 
-## 2. Selected Case Studies
+## 2. Selected case studies
 1. Case Study 1 – Personal Portfolio Website
 2. Case Study 9 – Bakery and Cake Shop Website
 3. Case Study 17 – Tourism and Heritage Information Website
 
-## 3. Tools Used
-HTML5, CSS3, a text editor such as Visual Studio Code, and a web browser.
+## 3. Tools and concepts
+HTML5, CSS3, a text editor and a web browser. Concepts include semantic elements, headings, paragraphs, lists, hyperlinks, classes, colors, backgrounds, typography, borders, margin, padding and responsive layouts.
 
-## 4. Case Study 1 – Personal Portfolio Website
-**Objective:** Present a student's profile, education, skills, projects and contact information.  
-**Concepts:** Semantic HTML, headings, paragraphs, lists, hyperlinks, CSS classes, colors, backgrounds, box model and internal anchor links.  
-**Screenshot evidence:** Insert a genuine browser screenshot here.
+## 4. Case study objectives
+- **Portfolio:** Present profile, education, skills, projects and contact information.
+- **Bakery:** Present sample products, prices, offers and contact information.
+- **Tourism:** Present destinations, heritage, culture, cuisine and travel information.
 
-## 5. Case Study 9 – Bakery and Cake Shop Website
-**Objective:** Display sample bakery products, prices, offers and contact information.  
-**Concepts:** Cards, headings, paragraphs, links, backgrounds, borders, margins, padding and responsive grids.  
-**Screenshot evidence:** Insert a genuine browser screenshot here.
+## 5. Syllabus mapping
+HTML structure and elements, CSS syntax and classes, colors and backgrounds, typography, box model, lists, images, hyperlinks, semantic elements and internal navigation are demonstrated across the three projects.
 
-## 6. Case Study 17 – Tourism and Heritage Information Website
-**Objective:** Present destinations, heritage information, culture, cuisine and travel tips.  
-**Concepts:** HTML5 sections, ordered and unordered lists, hyperlinks, internal navigation, colors and responsive layout.  
-**Screenshot evidence:** Insert a genuine browser screenshot here.
+## 6. Conclusion
+The projects demonstrate beginner-level webpage structure and styling using HTML5 and CSS3.
 
-## 7. Conclusion
-The three webpages demonstrate the use of HTML5 and CSS3 to structure and style websites and apply topics covered in Units I, II and III.
-
-**Submission reminder:** Capture screenshots from the actual webpages in a browser and insert them before submitting the report. Do not submit this template with empty screenshot areas.
+See [WD-ABL-Project-Report.pdf](WD-ABL-Project-Report.pdf) for the formatted report. See [SCREENSHOT-GUIDE.md](SCREENSHOT-GUIDE.md) for instructions to capture genuine browser screenshots.
