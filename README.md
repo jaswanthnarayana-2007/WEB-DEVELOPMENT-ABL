@@ -26,8 +26,11 @@ Open any case-study folder and double-click its `index.html` file. The page open
 
 All projects use beginner-friendly HTML5 and CSS3. Forms and contact/order links are front-end demonstrations; no server-side processing is included.
 
-## Screenshots and report
-Capture genuine screenshots after opening each website in a browser. Save them in the matching `screenshots` folder. Add the screenshots to the report before submitting it.
+## Final report
+- [Complete project report](Final-Report/WD-ABL-Project-Report.md)
+- [Genuine browser screenshot guide](Final-Report/SCREENSHOT-GUIDE.md)
+
+**Submission note:** The report is prepared, but genuine browser screenshot image files still need to be added to each case-study `screenshots/` folder before the evidence is complete.
 
 ## Deployment
 The repository is configured to publish its static websites with the GitHub Actions workflow in `.github/workflows/deploy-pages.yml`.
