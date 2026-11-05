@@ -28,3 +28,6 @@ All projects use beginner-friendly HTML5 and CSS3. Forms and contact/order links
 
 ## Screenshots and report
 Capture genuine screenshots after opening each website in a browser. Save them in the matching `screenshots` folder. Add the screenshots to the report before submitting it.
+
+## Deployment
+The repository is configured to publish its static websites with the GitHub Actions workflow in `.github/workflows/deploy-pages.yml`.
